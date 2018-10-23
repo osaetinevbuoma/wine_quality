@@ -1,0 +1,6 @@
+/.idea/
+/.ipynb_checkpoints/
+/convert_data.py
+/dataset/winequality.csv
+/dataset/winequality_red.csv
+/dataset/winequality_white.csv
