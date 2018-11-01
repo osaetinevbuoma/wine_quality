@@ -16,3 +16,5 @@ excellent).
 1. `dataset`: folder containing the wine datasets.
 2. `prepare_dataset.ipynb`: this notebook converts the dataset into usable csv files to tackle the
 specified tasks.
+3. `predict_quality_red_wine.ipynb`: red wine quality prediction using regression analysis.
+4. `predict_quality_red_wine_nn.ipynb`: red wine quality prediction using neural network.
