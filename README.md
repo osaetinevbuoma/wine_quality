@@ -18,3 +18,5 @@ excellent).
 specified tasks.
 3. `predict_quality_red_wine.ipynb`: red wine quality prediction using regression analysis.
 4. `predict_quality_red_wine_nn.ipynb`: red wine quality prediction using neural network.
+5. `predict_quality_white_wine.ipynb`: white wine quality prediction using regression analysis.
+6. `predict_quality_white_wine_nn.ipynb`: white wine quality predicion using neural network.
