@@ -20,6 +20,8 @@ specified tasks.
 4. `predict_quality_red_wine_nn.ipynb`: red wine quality prediction using neural network.
 5. `predict_quality_white_wine.ipynb`: white wine quality prediction using regression analysis.
 6. `predict_quality_white_wine_nn.ipynb`: white wine quality prediction using neural network.
+7. `predict_wine_type.ipynb`: predict the type of wine (white or red).
+8. `predict_wine_type_nn.ipynb`: predict the type of wine (white or red) using neural network.
 
 ## Requirements ##
 - Numpy
